@@ -1,5 +1,5 @@
 <a href="https://primitive.kr/" target="_blank" rel="noopener">
-  <img src="https://github.com/user-attachments/assets/e7a6487c-0e95-4a53-a426-4d85a03ad642" width="400 />
+  <img src="https://github.com/user-attachments/assets/e7a6487c-0e95-4a53-a426-4d85a03ad642" width="400" />
 </a>
 
 > 0과 1의 무한한 가능성, KNU 프로그래밍 동아리
